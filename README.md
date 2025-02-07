@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf-b88f-4e97-8903-444c3aa2f507)
+
+
 <!--
 **nmo-genio/nmo-genio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
