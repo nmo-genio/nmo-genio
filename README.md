@@ -8,7 +8,7 @@ Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf
 * 🧱 Passionate about systems architecture.
 * 🤖 GenAI experimentalist.
 * 🧠 Lifelong learner. 
-* 🐾 Also: Cat person. Dark mode fan. Team `left(my_column, instr(my_column, '-')-1)` forever.
+* 🐾 Also: Cat person. Dark mode fan.
 
 ## 🚀 Tech Stack
 ### Languages & Automation
