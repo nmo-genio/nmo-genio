@@ -58,6 +58,14 @@ Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-black?logo=vercel)
 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/nicoletamocanu/)
+- [Medium](https://nicoletamocanu.io/)
+- [Kaggle](https://kaggle.com/nicoletamocanu)
+- [Hugging Face](https://huggingface.co/nmo-genio)
+- [YouTube](https://www.youtube.com/@nicoletamocanu2694)
+- [Discord](https://discord.gg/X8KtYGDa)
+
 
 
 <!--
