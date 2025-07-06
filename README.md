@@ -15,6 +15,9 @@ Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-gray?logo=gnubash)
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=nodedotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions&logoColor=%232088FF)
 
 ### DevOps & Cloud: 
@@ -24,6 +27,7 @@ Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf
 
 ### Data & AI
 ![OpenAi](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=%23412991)
+![AI Tinkerer](https://img.shields.io/badge/AI%20Tinkerer-white?logo=openai&logoColor=%23412991)
 ![DuckDB](https://img.shields.io/badge/DuckDB-white?logo=duckdb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -44,6 +48,9 @@ Nice to see you !!! ![image](https://github.com/user-attachments/assets/a667dacf
 ![NGINX](https://img.shields.io/badge/NGINX-white?logo=nginx&logoColor=%23009639)
 ![FastAPI](https://img.shields.io/badge/fastAPI-white?logo=fastapi&logoColor=%23009688)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
